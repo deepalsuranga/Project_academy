@@ -12,7 +12,7 @@ package ramanifernando_academy;
 public class Test123 {
     public static void main(String[] args) {
         System.out.println("DDDDD");
-        System.out.println("Deepal modaya");
+        System.out.println("Deepal");
     }
     
 }
