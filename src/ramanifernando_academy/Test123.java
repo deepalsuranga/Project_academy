@@ -10,5 +10,8 @@ package ramanifernando_academy;
  * @author deepal_suranga
  */
 public class Test123 {
+    public static void main(String[] args) {
+        System.out.println("DDDDD");
+    }
     
 }
