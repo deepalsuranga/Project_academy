@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package com.fourgenious.www.methods;
+package com.fourgenius.www.private_access.admin.method;
 
 import javax.swing.JLabel;
 import javax.swing.JPasswordField;

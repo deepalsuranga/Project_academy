@@ -20,6 +20,8 @@ public class user_login extends javax.swing.JFrame {
      */
     public user_login() {
         initComponents();
+        
+        
     }
 
     /**
@@ -189,7 +191,6 @@ public class user_login extends javax.swing.JFrame {
         });
 
         _lb_user_login_seperator.setIcon(new javax.swing.ImageIcon(getClass().getResource("/com/fourgenious/www/loging/images/Saperate_Bar.png"))); // NOI18N
-        _lb_user_login_seperator.setPreferredSize(new java.awt.Dimension(2, 400));
 
         _lb_user_login_logo.setIcon(new javax.swing.ImageIcon(getClass().getResource("/com/fourgenious/www/loging/images/Ramani Accademy 600 x 200.png"))); // NOI18N
         _lb_user_login_logo.setPreferredSize(new java.awt.Dimension(200, 100));
@@ -222,7 +223,7 @@ public class user_login extends javax.swing.JFrame {
                         .addGap(78, 78, 78)
                         .addComponent(_lb_user_login_logo, javax.swing.GroupLayout.PREFERRED_SIZE, 685, javax.swing.GroupLayout.PREFERRED_SIZE)
                         .addGap(18, 18, 18)
-                        .addComponent(_lb_user_login_seperator, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE)
+                        .addComponent(_lb_user_login_seperator)
                         .addGap(18, 18, 18)
                         .addGroup(MiddleLayout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
                             .addComponent(_tf_user_loging_userName, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE)
