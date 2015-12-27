@@ -126,13 +126,13 @@
                           </Group>
                       </Group>
                       <Group type="102" alignment="0" attributes="0">
-                          <EmptySpace min="-2" pref="213" max="-2" attributes="0"/>
-                          <Component id="_lb_user_login_logo" min="-2" pref="224" max="-2" attributes="0"/>
+                          <EmptySpace min="-2" pref="175" max="-2" attributes="0"/>
+                          <Component id="_lb_user_login_logo" min="-2" pref="262" max="-2" attributes="0"/>
                       </Group>
                   </Group>
                   <EmptySpace type="unrelated" max="-2" attributes="0"/>
                   <Component id="_lb_user_login_forgotPassword" min="-2" max="-2" attributes="0"/>
-                  <EmptySpace pref="121" max="32767" attributes="0"/>
+                  <EmptySpace pref="167" max="32767" attributes="0"/>
                   <Component id="Botom" min="-2" max="-2" attributes="0"/>
               </Group>
           </Group>
